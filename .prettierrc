@@ -1,0 +1,13 @@
+{
+  "printWidth": 79,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "overrides": [
+    {
+      "files": ["src/redux/actions.js"],
+      "options": {
+        "printWidth": 200
+      }
+    }
+  ]
+}
